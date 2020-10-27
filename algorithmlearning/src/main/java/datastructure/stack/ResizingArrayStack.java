@@ -1,10 +1,12 @@
 package datastructure.stack;
 
 
+import datastructure.Stack;
+
 import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 
-public class ResizingArrayStack<T> implements Iterable<T> {
+public class ResizingArrayStack<T> implements Iterable<T>, Stack<T>{
 
     private final static int DEFAULT_CAPACITY = 16;
 
@@ -28,10 +30,19 @@ public class ResizingArrayStack<T> implements Iterable<T> {
         modCount++;
     }
 
+    @Override
     public void push(T item){
         modCount++;
         if (items.length == count) resize(items.length*2);
         items[count++] = item;
+    }
+
+    @Override
+    public T pop(){
+        modCount++;
+        if (isEmpty())
+            return null;
+        return (T)items[--count];
     }
 
     private void resize(int newCapacity) {
@@ -41,19 +52,13 @@ public class ResizingArrayStack<T> implements Iterable<T> {
         items = ni;
     }
 
-    public T pop(){
-        modCount++;
-        if (isEmpty())
-            return null;
-        return (T)items[--count];
+    @Override
+    public boolean isEmpty(){
+        return count == 0;
     }
 
     public int size(){
         return count;
-    }
-
-    public boolean isEmpty(){
-        return count == 0;
     }
 
     public Iterator<T> iterator() {

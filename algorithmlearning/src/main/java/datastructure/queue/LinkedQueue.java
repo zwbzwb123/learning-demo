@@ -1,13 +1,16 @@
 package datastructure.queue;
 
 
-public class LinkedQueue<T> {
+import datastructure.Queue;
+
+public class LinkedQueue<T> implements Queue<T> {
 
     Node<T> head;
     Node<T> tail;
 
     int count;
 
+    @Override
     public void enqueue(T item) {
         Node ot = tail;
         tail = new Node<T>(item,null);
@@ -16,6 +19,7 @@ public class LinkedQueue<T> {
         count++;
     }
 
+    @Override
     public T dequeue() {
         if (isEmpty())
             return null;

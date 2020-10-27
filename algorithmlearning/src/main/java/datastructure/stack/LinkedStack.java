@@ -1,14 +1,15 @@
 package datastructure.stack;
 
 
+import datastructure.Stack;
 
-public class LinkedStack<T> {
+public class LinkedStack<T> implements Stack<T> {
 
     private Node<T> head;
 
     public void push(T item){
         Node<T> oh = head;
-        head = new Node<T>(item,oh);
+        head = new Node<>(item,oh);
     }
 
     public T pop(){

@@ -1,10 +1,12 @@
 package datastructure.queue;
 
 
+import datastructure.Deque;
+
 /**
  * 可扩容的双端队列，数组实现
  */
-public class ResizingArrayDeque<T> {
+public class ResizingArrayDeque<T>  implements Deque<T> {
 
     private static int DEFAULT_CAPACITY = 16;
 
@@ -43,24 +45,25 @@ public class ResizingArrayDeque<T> {
         return size == 0;
     }
 
-    public boolean pushLeft(T item) {
+    @Override
+    public void pushLeft(T item) {
         checkIfNeedResize();
         items[leftIndex++] = item;
         size++;
-        return true;
     }
 
     private boolean isFull() {
         return rightIndex == leftIndex;
     }
 
-    public boolean pushRight(T item) {
+    @Override
+    public void pushRight(T item) {
         checkIfNeedResize();
         items[rightIndex--] = item;
         size++;
-        return true;
     }
 
+    @Override
     public T popLeft() {
         T item = items[leftIndex];
         items[--leftIndex] = null;
@@ -70,6 +73,7 @@ public class ResizingArrayDeque<T> {
         return item;
     }
 
+    @Override
     public T popRight() {
         T item = items[rightIndex];
         items[++rightIndex] = null;

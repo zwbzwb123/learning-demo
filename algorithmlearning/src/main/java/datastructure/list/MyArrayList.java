@@ -1,11 +1,13 @@
 package datastructure.list;
 
+import datastructure.List;
+
 import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 
-public class MyArrayList<T> implements Iterable<T> {
+public class MyArrayList<T> implements Iterable<T>, List<T> {
 
     private final static int DEFAULT_CAPACITY = 10;
     private T[] items;
@@ -16,30 +18,40 @@ public class MyArrayList<T> implements Iterable<T> {
         this(DEFAULT_CAPACITY);
     }
 
+    @SuppressWarnings("unchecked")
     public MyArrayList(int capacity) {
         items = (T[]) new Object[capacity];
         size = modCount = 0;
     }
 
+    @Override
     public int size() {
         return size;
     }
 
+    @Override
     public boolean isEmpty() {
         return size() == 0;
     }
 
+    @Override
+    public boolean contains(T t) {
+        return false;
+    }
+
+    @Override
     public T get(int index) {
         if (index < 0 || index >= size())
             throw new IndexOutOfBoundsException();
         return items[index];
     }
 
+    @Override
     public void add(T item) {
         add(size(), item);
     }
 
-    public void add(int index, T item) {
+    private void add(int index, T item) {
         ensureCapacity();
         modCount++;
         for (int i = size(); i > index; i--)
@@ -48,6 +60,7 @@ public class MyArrayList<T> implements Iterable<T> {
         size++;
     }
 
+    @Override
     public T remove(int index) {
         T item = items[index];
         int size = size();

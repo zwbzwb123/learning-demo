@@ -1,10 +1,12 @@
 package datastructure.list;
 
+import datastructure.List;
+
 import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-public class MyLinkedList<T> implements Iterable {
+public class MyLinkedList<T> implements Iterable , List<T> {
 
     private int modCount;
     private int     size;
@@ -30,11 +32,12 @@ public class MyLinkedList<T> implements Iterable {
         head.next = tail;
     }
 
+    @Override
     public void add(T item) {
         add(size(), item);
     }
 
-    public void add(int index, T item) {
+    private void add(int index, T item) {
         Node<T> p = getNode(index);
         p.prev = p.prev.next = new Node<T>(item,p.prev,p);
         size++;
@@ -44,10 +47,12 @@ public class MyLinkedList<T> implements Iterable {
     /*
      *   头节点的下一个节点是第1个节点
      */
+    @Override
     public T get(int index) {
         return getNode(index).item;
     }
 
+    @Override
     public T remove(int index) {
         Node<T> node = getNode(index);
         node.prev.next = node.next;
@@ -77,6 +82,7 @@ public class MyLinkedList<T> implements Iterable {
         }
     }
 
+    @Override
     public boolean contains(T item){
         Node<T> t = head;
         while (t != tail){
@@ -87,10 +93,12 @@ public class MyLinkedList<T> implements Iterable {
         return false;
     }
 
+    @Override
     public boolean isEmpty() {
         return size() == 0;
     }
 
+    @Override
     public int size() {
         return size;
     }

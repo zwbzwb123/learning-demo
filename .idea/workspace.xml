@@ -2,160 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eec63c0-83fe-4355-b428-c3302299d48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/algorithm/ArraySubSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/algorithm/CommonAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/algorithm/ForkjoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/algorithm/SortAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/algorithm/Stopwatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/algorithm/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/LeftistHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/ResizingArrayDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/ResizingArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/tree/AvlTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/tree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/jzoffer/Solution09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/jzoffer/Solution27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/jzoffer/Solution45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/jzoffer/Solution58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/Solution1288.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/Solution1476.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/Solution845.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/backtracking/Solution0804.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/backtracking/Solution0807.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/backtracking/Solution0809.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/backtracking/Solution46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/backtracking/Solution78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution1305.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution1329.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution1387.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution1508.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution1509.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution1561.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/sort/Solution973.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/stack/Solution1381.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution0403.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution1026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution1302.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution1315.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution1379.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution515.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution814.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution894.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/middle/tree/Solution98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution0203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution0304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution0402.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1281.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1431.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1470.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1486.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1502.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1512.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution1603.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution237.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution461.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution617.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/Solution771.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/SolutionLCP01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/leetcode/simple/SolutionLCP06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/resources/exercise3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/adapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/adapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/adapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/adapter/impl/AbstractTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/adapter/impl/AdapteeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/bridge/AbstractMessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/bridge/MessageImplementor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/bridge/impl/CommonMessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/bridge/impl/MessageEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/bridge/impl/MessageSMS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/bridge/impl/UrgentMessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/builder/impl/ProductBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/chain/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/chain/impl/ConcreteHandlerA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/chain/impl/ConcreteHandlerB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/command/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/command/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/command/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/command/impl/AddCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/command/impl/ConcreteReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/command/impl/MultiCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/facade/ModelA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/facade/ModelB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/facade/impl/ModelAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/facade/impl/ModelBImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/factory/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/factory/impl/SchemeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/factory/impl/SchemeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/product/ProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/product/ProductB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/product/impl/ProductA2Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/product/impl/ProductAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/product/impl/ProductB2Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/abstractfactory/product/impl/ProductBImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/factorymethod/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/factorymethod/factory/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/factorymethod/factory/impl/ProductAFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/factorymethod/factory/impl/ProductBFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/factorymethod/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/factorymethod/product/impl/ProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/factorymethod/product/impl/ProductB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/simplefactory/Api.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/simplefactory/ApiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/simplefactory/imple/ImplA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/factory/simplefactory/imple/ImplB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/mediator/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/mediator/ColleagueMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/mediator/impl/AbstractColleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/mediator/impl/ColleagueA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/mediator/impl/ColleagueB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/mediator/impl/ConcreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/observe/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/observe/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/observe/impl/ConcreteObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/observe/impl/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/proxy/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/proxy/dynamic/SubjectProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/proxy/staticproxy/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/proxy/staticproxy/SubjectProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/ObjectStruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/impl/ConcreteElementA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/impl/ConcreteElementB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/impl/ConcreteVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desighpatterns/src/main/resources/Factory.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/OrderedST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/ST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/st/OrderArrayST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/LinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/LinkedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/ResizingArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/ResizingArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/LinkedStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/LinkedStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/ResizingArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/ResizingArrayStack.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/algorithmlearning/target/" />
     <ignored path="$PROJECT_DIR$/desighpatterns/target/" />
@@ -168,24 +27,129 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithmlearning/pom.xml">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/LinkedQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="208">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/ResizingArrayDeque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-608">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/ST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/desighpatterns/pom.xml">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/st/OrderArrayST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="515">
+              <caret line="107" column="7" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="7" />
+              <folding>
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#520#550#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#1523#1524#0" expanded="true" />
+                <element signature="e#1550#1551#0" expanded="true" />
+                <element signature="e#1607#1608#0" expanded="true" />
+                <element signature="e#1634#1635#0" expanded="true" />
+                <element signature="e#2832#2833#0" expanded="true" />
+                <element signature="e#2864#2865#0" expanded="true" />
+                <element signature="e#2903#2904#0" expanded="true" />
+                <element signature="e#2930#2931#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/algorithm/search/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/OrderedST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="50" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="50" />
+              <folding>
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Deque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5936">
+              <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -195,6 +159,21 @@
       <list>
         <option value="$PROJECT_DIR$/algorithmlearning/pom.xml" />
         <option value="$PROJECT_DIR$/desighpatterns/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Stack.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/ResizingArrayStack.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/List.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/Queue.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Queue.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/LinkedQueue.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Dequeue.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/ResizingArrayDeque.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/ST.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/OrderedST.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/st/STImpl.java" />
+        <option value="$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/st/OrderArrayST.java" />
       </list>
     </option>
   </component>
@@ -219,9 +198,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="152" />
+    <option name="x" value="27" />
     <option name="width" value="1565" />
-    <option name="height" value="1040" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -238,37 +217,66 @@
             <path>
               <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="desighpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmlearning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="desighpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmlearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="desighpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="desighpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmlearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="desighpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmlearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithmlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="st" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603799377693" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603805815674" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -322,16 +330,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603798994864</updated>
-      <workItem from="1603798996280" duration="268000" />
+      <workItem from="1603798996280" duration="6369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268000" />
+    <option name="totallyTimeSpent" value="6369000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="0" width="1252" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="22" y="0" width="1252" height="824" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -384,16 +391,290 @@
     <entry file="file://$PROJECT_DIR$/desighpatterns/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desighpatterns/src/main/java/patterns/vistor/ObjectStruct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/ResizingArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+          <folding>
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/stack/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding>
+            <element signature="e#434#464#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/list/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+          <folding>
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1125#1126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/BinaryHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/LeftistHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/LinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/queue/ResizingArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/st/STImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/ST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/OrderedST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/algorithm/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5936">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithmlearning/src/main/java/datastructure/st/OrderArrayST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="107" column="7" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="7" />
+          <folding>
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#520#550#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1550#1551#0" expanded="true" />
+            <element signature="e#1607#1608#0" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+            <element signature="e#2832#2833#0" expanded="true" />
+            <element signature="e#2864#2865#0" expanded="true" />
+            <element signature="e#2903#2904#0" expanded="true" />
+            <element signature="e#2930#2931#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithmlearning</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
