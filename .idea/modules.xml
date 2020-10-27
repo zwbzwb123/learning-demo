@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithmlearning/algorithmlearning.iml" filepath="$PROJECT_DIR$/algorithmlearning/algorithmlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desighpatterns/desighpatterns.iml" filepath="$PROJECT_DIR$/desighpatterns/desighpatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning-demo.iml" filepath="$PROJECT_DIR$/.idea/learning-demo.iml" />
+    </modules>
+  </component>
+</project>
